@@ -29,53 +29,53 @@ I enjoy building **mobile apps**, exploring the web, and learning how things wor
 
 ## 🧰 My Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" alt="Flutter"/>
-  <br/>
-  <strong><span style="color:#02569B;">Flutter</span></strong>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" alt="Flutter" />
+        <br />
+        <sub><b><span style="color:#00ADB5">Flutter</span></b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" alt="Dart" />
+        <br />
+        <sub><b><span style="color:#0175C2">Dart</span></b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase" />
+        <br />
+        <sub><b><span style="color:#FFA000">Firebase</span></b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+        <br />
+        <sub><b><span style="color:#F7DF1E">JavaScript</span></b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML" />
+        <br />
+        <sub><b><span style="color:#E34F26">HTML</span></b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS" />
+        <br />
+        <sub><b><span style="color:#1572B6">CSS</span></b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
+        <br />
+        <sub><b><span style="color:#3776AB">Python</span></b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+        <br />
+        <sub><b><span style="color:#F05032">Git</span></b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" alt="Dart"/>
-  <br/>
-  <strong><span style="color:#0175C2;">Dart</span></strong>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase"/>
-  <br/>
-  <strong><span style="color:#FFA000;">Firebase</span></strong>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-  <br/>
-  <strong><span style="color:#F7DF1E;">JavaScript</span></strong>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/>
-  <br/>
-  <strong><span style="color:#E34F26;">HTML</span></strong>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/>
-  <br/>
-  <strong><span style="color:#1572B6;">CSS</span></strong>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-  <br/>
-  <strong><span style="color:#3776AB;">Python</span></strong>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-  <br/>
-  <strong><span style="color:#F05032;">Git</span></strong>
-</p>
 
 
 
