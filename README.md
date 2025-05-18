@@ -6,8 +6,9 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:00adb5,100:3a0ca3&section=header&text=Welcome%20to%20My%20Profile!&fontSize=28&fontAlignY=40&desc=Tech%20Explorer%20%7C%20Mobile%20%26%20Web%20Dev%20%7C%20Always%20Learning&descAlignY=60" />
+  <img src="https://i.imgur.com/your-image.png" alt="Welcome Banner" />
 </p>
+
 
 
 ---
