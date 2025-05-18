@@ -78,10 +78,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitharsh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49.3%" height="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitharsh&theme=tokyonight&hide_border=true" width="49.3%" height="50"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitharsh&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitharsh&theme=tokyonight&hide_border=true" width="47%" />
 </p>
-
 
 ---
 
@@ -92,7 +91,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitharsh&repo=project1&theme=radical" />
   </a>
   <a href="https://github.com/harshitharsh/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitharsh&repo=project2&theme=radical" width=50% />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitharsh&repo=project2&theme=radical" />
   </a>
 </p>
 
