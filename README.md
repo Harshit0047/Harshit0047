@@ -6,8 +6,9 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/your-image.png" alt="Welcome Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile;Flutter+%7C+Web+%7C+Mobile+Developer;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 
 
 
