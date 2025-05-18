@@ -91,7 +91,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitharsh&repo=project1&theme=radical" />
   </a>
   <a href="https://github.com/harshitharsh/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitharsh&repo=project2&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitharsh&repo=project2&theme=radical" width=50% />
   </a>
 </p>
 
