@@ -79,7 +79,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshitharsh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49.3%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitharsh&theme=tokyonight&hide_border=true" width="49.3%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitharsh&theme=tokyonight&hide_border=true" width="59.3%" />
 </p>
 
 
