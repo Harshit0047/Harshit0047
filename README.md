@@ -1,135 +1,119 @@
-<!-- Animated typing header -->
+<!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Harshit+Harsh!;A+Passionate+Developer+%F0%9F%92%BB;Lover+of+Tech%2C+Code+%26+Creativity;Welcome+to+my+GitHub+Universe!+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00adb5,100:3a0ca3&height=100&section=header&text=Hi%20There!%20I'm%20Harshit%20Harsh%20👋&fontSize=24&fontAlignY=35&desc=Tech%20Explorer%20%7C%20Flutter%20Dev%20%7C%20Always%20Learning&descAlignY=60" />
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3a0ca3&center=true&vCenter=true&width=500&lines=Full-Stack+Flutter+Developer;Passionate+about+UI%2FUX+Design;Building+Modern+Web+%26+Mobile+Apps" alt="Typing SVG" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile;Flutter+%7C+Web+%7C+Mobile+Developer;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+## 🙋‍♂️ About Me
 
-
-
-
----
-
-## 🧑‍💻 About Me
-
-Hi, I'm **Harshit Harsh**, a final-year **Computer Science** student who loves crafting ideas into reality using code.  
-I enjoy building **mobile apps**, exploring the web, and learning how things work behind the scenes.
-
-- 🌱 Currently diving deep into: **Flutter**, **Firebase**, **System Design**
-- 💬 Ask me about: Flutter, UI/UX, APIs, Git & GitHub
-- 🧠 Learning Goals: Clean Architecture • DevOps Basics • Open Source
-- ⚡ Fun Fact: I drink more tea than water ☕
-- 🛠️ Life Motto: *Build. Break. Fix. Repeat.*
+- 🎓 I'm a **B.Tech CSE student** who loves to build tech that matters.
+- 💻 Currently working with **Flutter**, **Firebase**, and exploring **AI**.
+- 🛠️ Enjoy solving problems through **mobile apps**, **web development**, and **clean UI/UX**.
+- 🌱 Learning never stops — into **system design**, **machine learning**, and **performance optimization**.
+- 🎯 Goal: To be a **well-rounded software engineer** with product thinking.
 
 ---
 
 ## 🧰 My Tech Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" alt="Flutter" />
-        <br />
-        <sub><b><span style="color:#00ADB5">Flutter</span></b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" alt="Dart" />
-        <br />
-        <sub><b><span style="color:#0175C2">Dart</span></b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase" />
-        <br />
-        <sub><b><span style="color:#FFA000">Firebase</span></b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
-        <br />
-        <sub><b><span style="color:#F7DF1E">JavaScript</span></b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML" />
-        <br />
-        <sub><b><span style="color:#E34F26">HTML</span></b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS" />
-        <br />
-        <sub><b><span style="color:#1572B6">CSS</span></b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
-        <br />
-        <sub><b><span style="color:#3776AB">Python</span></b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
-        <br />
-        <sub><b><span style="color:#F05032">Git</span></b></sub>
-      </td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
+      <br />
+      <b><img src="https://img.shields.io/badge/Flutter-%2300ADB5?style=flat&logo=flutter&logoColor=white" /></b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" />
+      <br />
+      <b><img src="https://img.shields.io/badge/Dart-%230175C2?style=flat&logo=dart&logoColor=white" /></b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" />
+      <br />
+      <b><img src="https://img.shields.io/badge/Firebase-%23FFA000?style=flat&logo=firebase&logoColor=white" /></b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+      <br />
+      <b><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" /></b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+      <br />
+      <b><img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white" /></b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+      <br />
+      <b><img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white" /></b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+      <br />
+      <b><img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white" /></b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+      <br />
+      <b><img src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white" /></b>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-
-
-
 ---
 
-## 🚀 Featured Projects
-
-### 🚌 **Bus Route App**
-A navigation app to display and track available buses for selected routes.  
-**Built with:** Flutter, Google Maps API, Firebase  
-🔗 [View Project](https://github.com/harshitharsh/your-bus-route-repo)
-
-### 🏨 **Hotel Booking Website**
-Responsive website for booking hotels from budget to luxury.  
-**Built with:** HTML, CSS, JS  
-🔗 [View Project](https://github.com/harshitharsh/your-hotel-booking-repo)
-
----
-
-## 🏆 GitHub Trophies
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshitharsh&theme=onedark&row=2&column=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitharsh&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitharsh&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📌 Pinned Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitharsh&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitharsh&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshitharsh&theme=react-dark" />
-</p>
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/harshit-harsh/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/harshitharsh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/harshitharsh/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitharsh&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/harshitharsh/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitharsh&repo=project2&theme=radical" />
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshitharsh&label=Profile%20views&color=brightgreen&style=flat" alt="harshitharsh" />
-</p>
+## 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&section=footer" />
+  <a href="https://www.linkedin.com/in/harshitharsh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harshitharsh@example.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/harshitharsh">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:00adb5&height=100&section=footer"/>
 </p>
